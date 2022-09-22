@@ -16,6 +16,10 @@
 
 ---
 
+## Stack
+
+---
+
 ## Extra resources
 - https://gitmoji.dev/
 - https://www.markdownguide.org/basic-syntax/
