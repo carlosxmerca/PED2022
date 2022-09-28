@@ -31,9 +31,9 @@ Porciones: 12
 # Puntos de los objetivos
 El programa muestra el resultado esperado (15%) y
 El programa se ejecuta sin errores (10%):
-Muestra el menú de opciones (1/10)
-Objetivo 1 completo (4/10)
-Objetivo 2 completo (5/10)
+- Muestra el menú de opciones (1/10)
+- Objetivo 1 completo (4/10)
+- Objetivo 2 completo (5/10)
 
 ## Estructura de una pila
 
