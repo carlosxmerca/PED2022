@@ -21,6 +21,12 @@
 
 ---
 
+## Queue
+- https://meaguilar.github.io/PED/Evaluaciones/cp4/#0
+- https://www.onlinegdb.com/Y8lB9bcHr
+
+---
+
 ## Extra resources
 - https://gitmoji.dev/
 - https://www.markdownguide.org/basic-syntax/
