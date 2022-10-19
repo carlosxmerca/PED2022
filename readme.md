@@ -27,6 +27,13 @@
 
 ---
 
+## Lists
+- https://meaguilar.github.io/PED/cp5Guia/#0
+- https://www.youtube.com/watch?v=15urP2LmfqY
+- https://onlinegdb.com/ciPhYR-_Kx
+
+---
+
 ## Extra resources
 - https://gitmoji.dev/
 - https://www.markdownguide.org/basic-syntax/
