@@ -34,6 +34,11 @@
 
 ---
 
+## Trees
+- https://meaguilar.github.io/PED/Evaluaciones/cp6/#0
+
+---
+
 ## Extra resources
 - https://gitmoji.dev/
 - https://www.markdownguide.org/basic-syntax/
