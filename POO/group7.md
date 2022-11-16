@@ -5,7 +5,7 @@ Un cibercafé planea llevar un control de los juegos que más disfrutan sus clie
 
 Para realizar esto deberás hacer un programa que implemente programación orientada a objetos, además deberás almacenar todos los juegos que se ingresen al sistema en la estructura dinámica de tu preferencia y que consideres se acopla mejor a las necesidades del sistema.
 
-Diagrama UML a seguir:
+### Diagrama UML a seguir
 ![uml](./img/VideoGameUML.png)
 
 El programa debe tener las siguientes funciones:
