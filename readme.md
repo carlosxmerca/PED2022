@@ -39,6 +39,12 @@
 
 ---
 
+## OOP
+- https://meaguilar.github.io/PED/Evaluaciones/cp7/
+- https://www.youtube.com/watch?v=I848HdWjLMo
+
+---
+
 ## Extra resources
 - https://gitmoji.dev/
 - https://www.markdownguide.org/basic-syntax/
